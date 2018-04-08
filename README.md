@@ -1,1 +1,1 @@
-# Qwiic_-LSM9DS1
+# Qwiic_LSM9DS1
